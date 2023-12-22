@@ -4,7 +4,7 @@
 
 ------------------------------------
 
-> **To participate in future events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9)**
+> **To participate in this and future events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9)**
 
 --------------------------------------
 
@@ -26,7 +26,7 @@
 
 **2:15 - 3:15 pm** :: *Use Cases* - Speakers TBA
 
-**3:15 - 3:45 pm** :: *Demos and Showcases* 
+**3:15 - 3:45 pm** :: *Demos and Showcases* - Speakers TBA
 
 **3:45 - 4:00 pm** :: *Program Notes and Wrap Up* - 2024 Look-Ahead for [law.MIT.edu](https://law.mit.edu)
 
@@ -39,7 +39,7 @@ Coming Soon!
 
 > To participate in this and future events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9) 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScbH7sPx8hecZWcrb9t7C0pI1ik2qw6wWxv2K9paUrn5nYvmg/viewform?embedded=true" width="640" height="1957" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdPbY28sv-motElHWNTINEy5UtxslB7wIk4zsZ4v89d-I2LnA/viewform?embedded=true" width="640" height="1190" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 
 -------------------------------------------------------------------
