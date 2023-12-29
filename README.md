@@ -59,4 +59,4 @@ Coming Soon!
 
 -------------------------------------------------------------------
 
-*View on [GitHub](https://github.com/mitmedialab/2024-MIT-IAP-ComputationalLaw/)* 
+*View this page on [GitHub](https://github.com/mitmedialab/2024-MIT-IAP-ComputationalLaw/)* 
