@@ -4,7 +4,7 @@
 
 ------------------------------------
 
-> **To participate in this and future events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9)**
+> **To participate in this and future laww.MIT.edu events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9)**
 
 --------------------------------------
 
@@ -16,7 +16,7 @@
 
 **Instructor** :: Dazza Greenwood
 
-**Co-Instructors** :: Megan Ma, Bryan Wilson, Wassim Alsindi
+**Co-Instructors** :: Megan Ma, Bryan Wilson
 
 ## Agenda
 
@@ -30,6 +30,7 @@
 
 **3:45 - 4:00 pm** :: *Program Notes and Wrap Up* - 2024 Look-Ahead for [law.MIT.edu](https://law.mit.edu)
 
+* content and timing is subject to change
 
 ## Background Readings
 
