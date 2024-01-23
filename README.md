@@ -12,7 +12,7 @@
 
 **Date** :: *January 29, 2024*
 
-**Time** :: *2:00 - 4:00 pm Eastern Time US*
+**Time** :: *2:00 - 4:00 pm Eastern Time US* (4:00 - 5:00 pm for discussion)
 
 **Format** :: *Online, virtual lectures*
 
@@ -22,17 +22,42 @@
 
 ## Agenda
 
-**Time** :: *Subject*
+**Eastern Time** :: *Subject*
 
-**2:00 - 2:15 pm** :: *Introduction* - Speakers TBA
+**2:00 - 2:15 pm** :: *Introduction* 
 
-**2:15 - 3:15 pm** :: *Use Cases* - Speakers TBA
+- Dazza Greenwood, 
+- Megan Ma, 
+- Shawnna Hoffman
 
-**3:15 - 3:45 pm** :: *Demos and Showcases* - Speakers TBA
+**2:15 - 3:45 pm** :: *Use Cases and Showcases* 
+
+- Susan Guthrie - "AI and Mediation: Insights into Generative AI Applications In and Out of the Room"
+
+- Damien Riehl - "Copyright and LLMs: Vector-Space Ideas Create Near-Infinite Expressions"
+
+- Todd Smithline - "AI Standard Clauses"
+
+- Brian Ulicny - "Trusting LLMs to Answer Questions from Legal Texts: Is RAG All You Need for Legal QA?"
+ 
+- Eric Hartford - "Uncensored Models" 
+
+- Allison Morrell - "Programming in Natural Language using GPTs"
+
+- Leonard Park - "GenAI for Law with Open Notebooks"
+
+- John Nay and Campbell Hutcheson: Continuous Monitoring of GenAI for Legal Uses"
+
+- Jesse Han - "Synthetic Data for Training and Evaluating Legal Domain Models"
 
 **3:45 - 4:00 pm** :: *Program Notes and Wrap Up* - 2024 Look-Ahead for [law.MIT.edu](https://law.mit.edu)
 
-* content and timing is subject to change
+- Dazza Greenwood
+- Olga Mack
+
+**4:00 - 5:00 pm** :: *Further Discussion and Additional Presenter Time if Needed*
+
+* content and timing are subject to change
 
 ## Background Readings
 
