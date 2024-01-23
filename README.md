@@ -32,16 +32,16 @@
 
 **2:15 - 3:45 pm** :: *Use Cases and Showcases* 
 
-- Susan Guthrie - "AI and Mediation: Insights into Generative AI Applications In and Out of the Room"
-
 - Damien Riehl - "Copyright and LLMs: Vector-Space Ideas Create Near-Infinite Expressions"
 
 - Todd Smithline - "AI Standard Clauses"
 
-- Brian Ulicny - "Trusting LLMs to Answer Questions from Legal Texts: Is RAG All You Need for Legal QA?"
- 
-- Eric Hartford - "Uncensored Models" 
+- Eric Hartford - "Uncensored Models and Open Source AI: Ethical, Technical, and Societal Perspectives" 
 
+- Brian Ulicny - "Trusting LLMs to Answer Questions from Legal Texts: Is RAG All You Need for Legal QA?"
+
+- Susan Guthrie - "AI and Mediation: Insights into Generative AI Applications In and Out of the Room"
+ 
 - Allison Morrell - "Programming in Natural Language using GPTs"
 
 - Leonard Park - "GenAI for Law with Open Notebooks"
