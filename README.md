@@ -59,7 +59,7 @@
 
 * content and timing are subject to change
 
-## Background Readings
+## Program Information and Background Readings
 
 Coming Soon!
 
