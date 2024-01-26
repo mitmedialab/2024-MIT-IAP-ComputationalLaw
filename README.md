@@ -61,7 +61,11 @@
 
 ## Program Information and Background Readings
 
-Coming Soon!
+**Damien Rieh **
+*Topic*: Copyright and LLMs: Vector-Space Ideas Create Near-Infinite Expressions 
+*Description*: Under copyright law, ideas are uncopyrightable, but human-made expressions are copyrightable — though machine-created expressions are uncopyrightable. Since LLM foundational models create vector embeddings — and those embeddings plot into vector space the conceptual  "ideas" — there's a strong argument that the LLM copyright lawsuits will fail because of copyright's Idea Expression Distinction. The potential fly in that ointment: Memorization without guardrails. Here an exploration of how in our Post-LLM world, Ideas are the only things that matter; Expressions are [uncopyrightable] commodities.
+*Materials*: My brief article (https://www.linkedin.com/pulse/copyright-infringement-llm-lawsuits-idea-expression-relief-riehl/?trackingId=THj98E6hQUithIoA6nbxjg%3D%3D) on the topic — that my talk expands upon
+
 
 ## Past MIT IAP Computational Law Workshops
 
