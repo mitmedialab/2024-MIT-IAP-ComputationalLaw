@@ -85,9 +85,7 @@
 **Leonard Park**
 - *Bio*: Leo is an attorney and legal tech product manager who spent eight years developing legal analytics at Lex Machina. He is currently advising a number of legal tech startups while planning his next move.
 - *Session Description*: How much should I be tipping ChatGPT? Should I motivate my LLM with praise or threaten it with annihilation? I like to make tests in Colab Notebooks to try and answer questions like this. There’s a near-constant stream of research articles and news coverage about LLMs, and their surprising behaviors. Along with the blistering pace of genAI advancements, it's difficult to know if certain findings are real, and if real, meaningful for any practical application. Further complicating the issue is that LLMs behave differently across specific domains, such as legal language. So, let’s try some experiments in legal contexts and then reach our own conclusions.
-- *Resources*: 
-- [Emotional Pleas for Legal Prompts](https://colab.research.google.com/drive/1URxbf5S-EvDjqUkRhtHx4U_70S5vFKPD)
-- [Reading](https://www.linkedin.com/pulse/gpt-4-turbo-here-now-what-leonard-park-0zlcc/)
+- *Resources*: [Emotional Pleas for Legal Prompts](https://colab.research.google.com/drive/1URxbf5S-EvDjqUkRhtHx4U_70S5vFKPD); [Reading](https://www.linkedin.com/pulse/gpt-4-turbo-here-now-what-leonard-park-0zlcc/)
 
 **John Nay and Campbell Hutcheson** 
 - *Bio*: John Nay is the Founder and CEO of Norm.ai and Stanford CodeX Affiliate; Campbell Hutcheson is the Chief Product Office of Norm.ai
