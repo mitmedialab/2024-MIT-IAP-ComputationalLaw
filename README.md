@@ -81,11 +81,11 @@
 **Leonard Park**
 - *Session Description*: How much should I be tipping ChatGPT? Should I motivate my LLM with praise or threaten it with annihilation? I like to make tests in Colab Notebooks to try and answer questions like this. There’s a near-constant stream of research articles and news coverage about LLMs, and their surprising behaviors. Along with the blistering pace of genAI advancements, it's difficult to know if certain findings are real, and if real, meaningful for any practical application. Further complicating the issue is that LLMs behave differently across specific domains, such as legal language. So, let’s try some experiments in legal contexts and then reach our own conclusions.
 - *Resources*: 
-- [Emotional Pleas for Legal Prompts](https://colab.research.google.com/drive/1URxbf5S-EvDjqUkRhtHx4U_70S5vFKPD)
-- [Reading](https://www.linkedin.com/pulse/gpt-4-turbo-here-now-what-leonard-park-0zlcc/)
+- *[Emotional Pleas for Legal Prompts](https://colab.research.google.com/drive/1URxbf5S-EvDjqUkRhtHx4U_70S5vFKPD)
+- *[Reading](https://www.linkedin.com/pulse/gpt-4-turbo-here-now-what-leonard-park-0zlcc/)
 
- **John Nay and Campbell Hutcheson** 
- - *Resource*: [A Supervisory AI Agent Approach to Responsible Use of GenAI in the Legal Profession](https://law.stanford.edu/2024/01/25/a-supervisory-ai-agents-approach-to-responsible-use-of-genai-in-the-legal-profession/)
+**John Nay and Campbell Hutcheson** 
+- *Resource*: [A Supervisory AI Agent Approach to Responsible Use of GenAI in the Legal Profession](https://law.stanford.edu/2024/01/25/a-supervisory-ai-agents-approach-to-responsible-use-of-genai-in-the-legal-profession/)
  
 
 ## Past MIT IAP Computational Law Workshops
