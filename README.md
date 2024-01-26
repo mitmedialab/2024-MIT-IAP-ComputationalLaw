@@ -76,7 +76,7 @@
 
 **Allison Morrell**
 - *Session Description*: Sharing insights from building the Better GPT Builder and takeaways on 1) what GPTs (and other simple no code chatbot builders) are good for, and 2) a couple key techniques Allison has used to create structured interaction and outputs with only plain text instructions. 
-*Resource*: (https://github.com/allisonmorrell/gptbuilder)
+- *Resource*: https://github.com/allisonmorrell/gptbuilder
 
 **Leonard Park**
 - *Session Description*: How much should I be tipping ChatGPT? Should I motivate my LLM with praise or threaten it with annihilation? I like to make tests in Colab Notebooks to try and answer questions like this. There’s a near-constant stream of research articles and news coverage about LLMs, and their surprising behaviors. Along with the blistering pace of genAI advancements, it's difficult to know if certain findings are real, and if real, meaningful for any practical application. Further complicating the issue is that LLMs behave differently across specific domains, such as legal language. So, let’s try some experiments in legal contexts and then reach our own conclusions.
