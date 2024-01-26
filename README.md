@@ -66,7 +66,7 @@
 - *Resource*: Damien's [article](https://www.linkedin.com/pulse/copyright-infringement-llm-lawsuits-idea-expression-relief-riehl/?trackingId=THj98E6hQUithIoA6nbxjg%3D%3D) on the topic 
 
 **Todd Smithline**
-- *Resource*: (https://bonterms.com/forms/ai-standard-clauses-version-1-0/)
+- *Resource*: https://bonterms.com/forms/ai-standard-clauses-version-1-0/
 
 **Brian Ulicny**
 - *Session Description*: LLMs aren't trained on proprietary documents, so they can't answer questions about them. Their knowledge is also frozen when they are trained, making them unable to incorporate new information or to consider updates to sources.  They also aren't great at citing the basis of their answers accurately.  Retrieval-Augmented Generation (RAG) architectures were supposed to fix these deficiencies of LLMs by interacting with an updateable cache of potentially proprietary documents to augment their knowledge and provide sources for the answers they generate.  In this session, we discuss the extent to which RAG architectures rely only on retrieved documents to generate responses.  It turns out that RAG output tends to rely on parametric LLM memory rather than retrieved open-book sources.  To quantify this, we introduce a new legal question-answer dataset based on Defense contracting (DFARS) use cases.  Although these regulations are not proprietary, current LLMs are not able to answer professional-grade DFARS questions about them reliably or with appropriate citations.  We present results to show that although basic RAG architectures do not solve the problems described, they can be improved significantly by fine tuning both the retrieval and answer generation mechanisms.  We will end with a short demo of a system prototype.  
@@ -81,7 +81,7 @@
 **Leonard Park**
 - *Session Description*: How much should I be tipping ChatGPT? Should I motivate my LLM with praise or threaten it with annihilation? I like to make tests in Colab Notebooks to try and answer questions like this. There’s a near-constant stream of research articles and news coverage about LLMs, and their surprising behaviors. Along with the blistering pace of genAI advancements, it's difficult to know if certain findings are real, and if real, meaningful for any practical application. Further complicating the issue is that LLMs behave differently across specific domains, such as legal language. So, let’s try some experiments in legal contexts and then reach our own conclusions.
 - *Resources*: 
-- Simple Colab Notebook:[Emotional Pleas for Legal Prompts](https://colab.research.google.com/drive/1URxbf5S-EvDjqUkRhtHx4U_70S5vFKPD)
+- [Emotional Pleas for Legal Prompts](https://colab.research.google.com/drive/1URxbf5S-EvDjqUkRhtHx4U_70S5vFKPD)
 - [Reading](https://www.linkedin.com/pulse/gpt-4-turbo-here-now-what-leonard-park-0zlcc/)
 
  **John Nay and Campbell Hutcheson** 
