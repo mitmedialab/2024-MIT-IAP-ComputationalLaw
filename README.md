@@ -46,7 +46,7 @@
 
 - Leonard Park - "GenAI for Law with Open Notebooks"
 
-- John Nay and Campbell Hutcheson: Continuous Monitoring of GenAI for Legal Uses"
+- John Nay and Campbell Hutcheson - "Continuous Monitoring of GenAI for Legal Uses"
 
 - Jesse Han - "Synthetic Data for Training and Evaluating Legal Domain Models"
 
