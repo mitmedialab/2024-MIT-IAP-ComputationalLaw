@@ -12,7 +12,7 @@
 
 **Date** :: *January 29, 2024*
 
-**Time** :: *2:00 - 4:00 pm Eastern Time US* (4:00 - 5:00 pm for discussion)
+**Time** :: *2:00 - 4:00 pm Eastern Time US* (4:00 - 5:00 pm for discussion, if needed)
 
 **Format** :: *Online, virtual lectures*
 
@@ -106,9 +106,9 @@
 
 ## Register (permission of instructors required)
 
-> To participate in this and future events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9) 
+> To participate in this and future events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdPbY28sv-motElHWNTINEy5UtxslB7wIk4zsZ4v89d-I2LnA/viewform?embedded=true" width="640" height="1190" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+**--> REGISTRATION IS NOW CLOSED <--**
 
 
 -------------------------------------------------------------------
