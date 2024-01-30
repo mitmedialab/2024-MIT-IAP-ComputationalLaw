@@ -3,7 +3,7 @@
 # 9th Annual [MIT IAP Computational Law Workshop](https://mitmedialab.github.io/2024-MIT-IAP-ComputationalLaw)
 
 
-**>> Official Workshop Page With Video Archive: [https://law.mit.edu/pub/2024-iap-workshop](https://law.mit.edu/pub/2024-iap-workshop)<<**
+**Official Workshop Page With Video Archive: [https://law.mit.edu/pub/2024-iap-workshop](https://law.mit.edu/pub/2024-iap-workshop)**
 ------------------------------------
 
 > *To participate in future law.MIT.edu events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9)*
