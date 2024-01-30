@@ -1,12 +1,13 @@
 ![image](https://user-images.githubusercontent.com/10615650/207986092-ba9a6712-fd2a-4359-be20-d71bcf8eb163.png)
 
-## 9th Annual [MIT IAP Computational Law Workshop](https://mitmedialab.github.io/2024-MIT-IAP-ComputationalLaw)
+# 9th Annual [MIT IAP Computational Law Workshop](https://mitmedialab.github.io/2024-MIT-IAP-ComputationalLaw)
 
+**--> Official Workshop Page With Video Archive: [https://law.mit.edu/pub/2024-iap-workshop](https://law.mit.edu/pub/2024-iap-workshop)<--**
 ------------------------------------
 
 > *To participate in future law.MIT.edu events on these topics, including the periodic "IdeaFlow" series of discussion sessions, request an invitation at: [https://forms.gle/DB4oBQvYL5ZEXbRq9](https://forms.gle/DB4oBQvYL5ZEXbRq9)*
 
-**Join us for an engaging MIT IAP workshop focused on the cutting-edge integration of Generative AI in the field of law. This virtual event, scheduled for January 29, 2024, from 2:00 to 4:00 pm Eastern Time, will be led by Dazza Greenwood with co-instructors Megan Ma, Olga Mack, and Bryan Wilson. Dive into emerging topics and explore practical use cases, innovative demos, and showcases. The session will conclude with a look-ahead into the future of legal tech and AI's evolving role in this domain. In keeping with our tradition for this workshop, participation is free of charge. Don't miss this opportunity to be at the forefront of transformative legal technologies!**
+Join us for an engaging MIT IAP workshop focused on the cutting-edge integration of Generative AI in the field of law. This virtual event, scheduled for January 29, 2024, from 2:00 to 4:00 pm Eastern Time, will be led by Dazza Greenwood with co-instructors Megan Ma, Olga Mack, and Bryan Wilson. Dive into emerging topics and explore practical use cases, innovative demos, and showcases. The session will conclude with a look-ahead into the future of legal tech and AI's evolving role in this domain. In keeping with our tradition for this workshop, participation is free of charge. Don't miss this opportunity to be at the forefront of transformative legal technologies!
 
 --------------------------------------
 
